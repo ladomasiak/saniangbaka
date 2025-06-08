@@ -1,18 +1,13 @@
 <h1>Karupuk Lado Masiak Saniang Baka "Uda Afdhal"</h1>
 <h3>"Pusako Minang — Sakali Cubo, Langsuang Taraso!"</h3>
-
 <p>Rasanya pedas, gurih, dan kaya bumbu, dibuat dengan resep tradisi yang hanya diwariskan turun-temurun. Cocok dinikmati kapan saja — buat lauk makan nasi, digado, ngemil ataupun teman kopi sore.
-
 <br>Nikmati perpaduan 3 kerupuk legendaris; kerupuk kulit, kerupuk sanjai, dan kerupuk opak, diaduk dengan bumbu lado masiak asli khas, Nagari Saniang Baka, Minangkabau.
-
 <br>Rasanya disukai anak-anak dicintai orang dewasa.
-
 <br>Ada dua kemasan:
 <ul>
   <li>toples 800ml, Rp 16rb</li>
   <li>toples 1300ml, Rp 23rb</li>
 </ul>
-
 <br>yuk segera diorder di sini: </p>
 <br>
   <a href="https://id.shp.ee/dMFx4cE" class="link-button">🛒 Beli di Shopee</a>
