@@ -12,7 +12,7 @@ ada dua kemasan:
 - toples 800ml : 16rb
 - toples 1300ml : 23 rb
 
-yuk segera diorder</p>
+yuk segera diorder di sini: </p>
   <a href="https://id.shp.ee/dMFx4cE" class="link-button">🛒 Beli di Shopee</a>
   </br>
   <a href="https://shop-id.tokopedia.com/view/product/1731544081853941338%3Fregion%3DID%26locale%3Did-ID%26source%3Dtiktokseller%26no-cache%3D1%26e%3D1" class="link-button">🛍️ Beli di Tik Tok Shop</a>
