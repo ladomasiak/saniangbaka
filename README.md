@@ -3,11 +3,11 @@
 
 <p>Rasanya pedas, gurih, dan kaya bumbu, dibuat dengan resep tradisi yang hanya diwariskan turun-temurun. Cocok dinikmati kapan saja — buat lauk makan nasi, digado, ngemil ataupun teman kopi sore.
 
-Nikmati perpaduan 3 kerupuk legendaris; kerupuk kulit, kerupuk sanjai, dan kerupuk opak, diaduk dengan bumbu lado masiak asli khas, Nagari Saniang Baka, Minangkabau.
+<br>Nikmati perpaduan 3 kerupuk legendaris; kerupuk kulit, kerupuk sanjai, dan kerupuk opak, diaduk dengan bumbu lado masiak asli khas, Nagari Saniang Baka, Minangkabau.
 
-rasanya disukai anak-anak dicintai orang dewasa.
+<br>Rasanya disukai anak-anak dicintai orang dewasa.
 
-ada dua kemasan:
+<br>Ada dua kemasan:
 - toples 800ml : 16rb
 - toples 1300ml : 23 rb
 
