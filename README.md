@@ -1,8 +1,8 @@
-  <h1>Karupuk Lado Masiak Saniang Baka</h1>
-  <p>Karupuk Lado Masiak Uda Afdhal
-"Pusako Minang — Sakali Cubo, Langsuang Taraso!"
+<h1>Karupuk Lado Masiak Saniang Baka</h1>
+<h2>  Karupuk Lado Masiak Uda Afdhal</h2>
+<h3>"Pusako Minang — Sakali Cubo, Langsuang Taraso!"</h3>
 
-Rasanya pedas, gurih, dan kaya bumbu, dibuat dengan resep tradisi yang hanya diwariskan turun-temurun. Cocok dinikmati kapan saja — buat lauk makan nasi, digado, ngemil ataupun teman kopi sore.
+<p>Rasanya pedas, gurih, dan kaya bumbu, dibuat dengan resep tradisi yang hanya diwariskan turun-temurun. Cocok dinikmati kapan saja — buat lauk makan nasi, digado, ngemil ataupun teman kopi sore.
 
 Nikmati perpaduan 3 kerupuk legendaris; kerupuk kulit, kerupuk sanjai, dan kerupuk opak, diaduk dengan bumbu lado masiak asli khas, Nagari Saniang Baka, Minangkabau.
 
