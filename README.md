@@ -9,11 +9,12 @@
 
 <br>Ada dua kemasan:
 <ul>
-  <li>toples 800ml, Rp 16rb/li>
+  <li>toples 800ml, Rp 16rb</li>
   <li>toples 1300ml, Rp 23rb</li>
 </ul>
 
 <br>yuk segera diorder di sini: </p>
+<br>
   <a href="https://id.shp.ee/dMFx4cE" class="link-button">🛒 Beli di Shopee</a>
   <br>
   <a href="https://shop-id.tokopedia.com/view/product/1731544081853941338%3Fregion%3DID%26locale%3Did-ID%26source%3Dtiktokseller%26no-cache%3D1%26e%3D1" class="link-button">🛍️ Beli di Tik Tok Shop</a>
