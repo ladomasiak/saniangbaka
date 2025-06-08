@@ -1,5 +1,4 @@
-<h1>Karupuk Lado Masiak Saniang Baka</h1>
-<h2>  Karupuk Lado Masiak Uda Afdhal</h2>
+<h1>Karupuk Lado Masiak Saniang Baka "Uda Afdhal"</h1>
 <h3>"Pusako Minang — Sakali Cubo, Langsuang Taraso!"</h3>
 
 <p>Rasanya pedas, gurih, dan kaya bumbu, dibuat dengan resep tradisi yang hanya diwariskan turun-temurun. Cocok dinikmati kapan saja — buat lauk makan nasi, digado, ngemil ataupun teman kopi sore.
