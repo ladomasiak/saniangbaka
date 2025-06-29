@@ -9,7 +9,7 @@
       color: #333;
     }
     header {
-      background: #ffc8c2;
+      background: #e5e5e5;
       color: black;
       padding: 60px 20px;
       text-align: center;
