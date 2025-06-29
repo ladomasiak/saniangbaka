@@ -59,7 +59,7 @@
     .cta-btn {
       margin-top: 20px;
       padding: 12px 25px;
-      background: #22c55e;
+      background: #f4f4f4;
       color: white;
       border: none;
       border-radius: 5px;
