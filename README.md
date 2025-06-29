@@ -59,8 +59,10 @@
   </style>
 </head>
 
+<header>
 <h1>Karupuk Lado Masiak Saniang Baka "Uda Afdhal"</h1>
 <h3>"Pusako Minang — Sakali Cubo, Langsuang Taraso!"</h3>
+</header>
 
 <section class="features">
     <div class="feature"> 
