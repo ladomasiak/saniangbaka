@@ -2,11 +2,71 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Karupuk Lado Masiak Uda Afdhal</title>
-</head>  
+<style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      color: #333;
+    }
+    header {
+      background: #4f46e5;
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 3em;
+    }
+    header p {
+      font-size: 1.2em;
+      margin-top: 10px;
+    }
+    .cta-btn {
+      margin-top: 20px;
+      padding: 12px 25px;
+      background: #22c55e;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 1em;
+      cursor: pointer;
+    }
+    .features {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 40px 20px;
+      background: #f4f4f4;
+    }
+    .feature {
+      flex: 1 1 300px;
+      margin: 15px;
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .feature h3 {
+      margin-top: 0;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #e5e5e5;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+
 <h1>Karupuk Lado Masiak Saniang Baka "Uda Afdhal"</h1>
 <h3>"Pusako Minang — Sakali Cubo, Langsuang Taraso!"</h3>
 
-<p>Karupuk Lado Masiak Saniang Baka "Uda Afdhal" Rasanya pedas, gurih, dan kaya bumbu, dibuat dengan resep tradisi yang hanya diwariskan turun-temurun. Cocok dinikmati kapan saja — buat lauk makan nasi, digado, ngemil ataupun teman kopi sore.
+ <section class="features">
+    <div class="feature"> 
+    <p>Karupuk Lado Masiak Saniang Baka "Uda Afdhal" Rasanya pedas, gurih, dan kaya bumbu, dibuat dengan resep tradisi yang hanya diwariskan turun-temurun. Cocok dinikmati kapan saja — buat lauk makan nasi, digado, ngemil ataupun teman kopi sore.</p>
+    </div>
+  </section>
 <br>Nikmati perpaduan kerupuk legendaris; kerupuk jariang-jangek-sanjai-opak, diaduk dengan bumbu lado masiak asli khas Minang dari Nagari Saniang Baka, Minangkabau.
 <br>Rasanya disukai anak-anak dicintai orang dewasa.
 <br>Ada dua kemasan:
