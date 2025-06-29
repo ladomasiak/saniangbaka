@@ -85,7 +85,7 @@ Nikmati perpaduan kerupuk legendaris; kerupuk jariang-jangek-sanjai-opak, diaduk
 </div>
 
 <div class="feature">
-<br>Ada dua kemasan:
+Ada dua kemasan:
 <ul>
   <li>toples 800ml, Rp 20rb</li>
   <li>toples 1300ml, Rp 30rb</li>
