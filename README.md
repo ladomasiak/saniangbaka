@@ -96,7 +96,7 @@ Nikmati perpaduan kerupuk legendaris; kerupuk jariang-jangek-sanjai-opak, diaduk
 yuk langsung order di sini:
 <br>
 
-  <button class="cta-btn"><a href="https://wa.me/6281806384496?text=Halo%2C%20Halo%20kaka...%20saya%20mau%20order%20karupuk%20lado%20masiak%20Uda%20afdhal%20" class="link-button">📱 WhatsApp</a></button>
+  <button class="cta-btn"><a href="https://wa.me/6281806384496?text=Halo%2C%20Halo%20kaka...%20saya%20mau%20order%20karupuk%20lado%20masiak%20Uda%20afdhal%20" target="_blank">📱 WhatsApp</a></button>
   <br>
   <button class="cta-btn"><a href="https://id.shp.ee/dMFx4cE" class="link-button">🛒 Shopee</a></button>
   <br>
