@@ -79,6 +79,7 @@
     <p>Rasanya pedas, gurih, dan kaya bumbu, dibuat dengan resep tradisi yang hanya diwariskan turun-temurun. Cocok dinikmati kapan saja — buat lauk makan nasi, digado, ngemil ataupun teman kopi sore.</p>
     </div>
 
+ <img src="LadoMasiak-7.jpg" style="width:100%;"> 
 
 <div class="feature">
 Nikmati perpaduan kerupuk legendaris; kerupuk jariang-jangek-sanjai-opak, diaduk dengan bumbu lado masiak asli khas Minang dari Nagari Saniang Baka, Minangkabau. Rasanya disukai anak-anak dicintai orang dewasa.
