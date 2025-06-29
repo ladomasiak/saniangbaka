@@ -64,7 +64,7 @@
 
  <section class="features">
     <div class="feature"> 
-    <p>Karupuk Lado Masiak Saniang Baka "Uda Afdhal" Rasanya pedas, gurih, dan kaya bumbu, dibuat dengan resep tradisi yang hanya diwariskan turun-temurun. Cocok dinikmati kapan saja — buat lauk makan nasi, digado, ngemil ataupun teman kopi sore.</p>
+    <p>Rasanya pedas, gurih, dan kaya bumbu, dibuat dengan resep tradisi yang hanya diwariskan turun-temurun. Cocok dinikmati kapan saja — buat lauk makan nasi, digado, ngemil ataupun teman kopi sore.</p>
     </div>
   </section>
 <br>Nikmati perpaduan kerupuk legendaris; kerupuk jariang-jangek-sanjai-opak, diaduk dengan bumbu lado masiak asli khas Minang dari Nagari Saniang Baka, Minangkabau.
