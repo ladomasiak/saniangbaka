@@ -81,7 +81,6 @@
   <li>toples 1300ml, Rp 30rb</li>
 </ul>
 </div>
-</section>
 
 <div class="feature">
 yuk langsung order di sini:
