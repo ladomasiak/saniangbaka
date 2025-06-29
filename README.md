@@ -83,15 +83,15 @@
  <img src="LadoMasiak-7.jpg" style="width:100%;"> 
 
 <div class="feature">
-Nikmati perpaduan kerupuk legendaris; kerupuk jariang-jangek-sanjai-opak, diaduk dengan bumbu lado masiak asli khas Minang dari Nagari Saniang Baka, Minangkabau. Rasanya disukai anak-anak dicintai orang dewasa.
+<p>Nikmati perpaduan kerupuk legendaris; kerupuk jariang-jangek-sanjai-opak, diaduk dengan bumbu lado masiak asli khas Minang dari Nagari Saniang Baka, Minangkabau. Rasanya disukai anak-anak dicintai orang dewasa.</p>
 </div>
 
 <div class="feature">
-Ada dua kemasan:
+<p>Ada dua kemasan:
 <ul>
   <li>toples 800ml, Rp 20rb</li>
   <li>toples 1300ml, Rp 30rb</li>
-</ul>
+</ul></p>
 </div>
 
 <div class="feature">
