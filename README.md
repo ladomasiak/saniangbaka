@@ -74,7 +74,7 @@
   <li>toples 800ml, Rp 20rb</li>
   <li>toples 1300ml, Rp 30rb</li>
 </ul>
- </p>
+
 
 <p>yuk langsung order di sini:
 <ul>
