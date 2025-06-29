@@ -65,7 +65,6 @@
       border-radius: 5px;
       font-size: 1em;
       cursor: pointer;
-      width: 50%;
     }
   </style>
 </head>
