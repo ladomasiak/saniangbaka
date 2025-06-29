@@ -1,3 +1,8 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Karupuk Lado Masiak Uda Afdhal</title>
+</head>  
 <h1>Karupuk Lado Masiak Saniang Baka "Uda Afdhal"</h1>
 <h3>"Pusako Minang — Sakali Cubo, Langsuang Taraso!"</h3>
 
