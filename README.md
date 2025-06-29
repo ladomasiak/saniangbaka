@@ -9,8 +9,8 @@
       color: #333;
     }
     header {
-      background: #4f46e5;
-      color: white;
+      background: #ffc8c2;
+      color: black;
       padding: 60px 20px;
       text-align: center;
     }
@@ -94,4 +94,7 @@ yuk langsung order di sini:
 </div>
 </section>
 
+  <footer>
+    &copy; 2025 Karupuk Lado Masiak
+  </footer>
  
